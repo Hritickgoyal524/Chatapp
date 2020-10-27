@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "763556908412",
+    "firebase_url": "https://chatapp-cfbda.firebaseio.com",
+    "project_id": "chatapp-cfbda",
+    "storage_bucket": "chatapp-cfbda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763556908412:android:687cee5a946c4ab847e8f9",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763556908412-fpaoj3c15h0ifo5tr737jf7ocfsvvarh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-SIcSkhgDfZJcQVCI35D5D77iXspHUa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763556908412-fpaoj3c15h0ifo5tr737jf7ocfsvvarh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
